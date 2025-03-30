@@ -1,7 +1,7 @@
 # C-Programming-Bootcamp
 This is the repo for day to day C Programming practice
 
-## Topics:
+## Index:
 1. Very basic program of *C*
 2. Variables and Data Types
 3. Control Flow
